@@ -3,15 +3,22 @@
 
 ![shivam_singh](https://user-images.githubusercontent.com/67150258/126064868-a588fa05-0d7b-4169-ab05-b2b939d2e91b.png)
 
-I am a Young Aspiring Game Developer, Everyday Learning Something New which adds value to my Life in the Long Term, Currently developing mickeyfying_studios
+Shivam is working on creating a Complete Innovative Resolution through the Portals of Mickeyfying Studio which is a Premier Game Development Studio with it's roots engraved and extended to [Films, Animations & Broadcast],[Virtual Production (VR & AR)],[Extended Reality(XR)]
+Mickeyfying produces features that take you in a World full of possibilities, Get Indulged in Immersive Experience and Play the Way you Love.
+[-->]At Mickeyfying we aim to create an environment where the freedom to imagine and design thrives, Our teams push Innovations forward every day, united in the mission to enrich players’ lives with memorable gaming experiences.
 
-Skills: Python/C#/C++/Unity/Unreal Engine/Blender3D/Reallusion3D/Adobe AfterEffects/Adobe PremierePro/DaVinciResolve/Adobe Illustrator/Adobe Animate
+What Does It Promise?
+Mickeyfying Promises a Complete Package of an Exciting Gameplay, Suspenseful Storyline and Awe-Inspiring Visuals which will take you on an Immersive Story Telling Ride with the Protagonist, Initially We Plan to roll out Titles whose Story will be Inspired by Real Life Heroes who sacrificed their Life for the Nation.
 
-- 🔭 I’m currently working on developing mickeyfying-studios 
-- 👯 I’m looking to collaborate on Game Development and Video Editing 
-- 💬 Ask me about anything in relevance to my skills. 
-- 📫 How to reach me: scribblingchronicles@gmail.com 
-- ⚡ Fun fact: I also want to make some incredible Invention in Robotic-Engineering 
+Soon after the full fledged launch of "Aeroskafos", Shivam is Planning to roll out some production lines for the technologies of Future (Web3.0), Real Time Interaction Tools and Simulation Gadgets manufactured and assembled completely in India (We will See what More We Can Do on this Side)
+
+With the Help of Robotic Engineering tons of things are possible which makes efficiency and time management easier than before, As and When we are advancing forward we see things being innovated in their Complete Aspects, Shivam at Mickeyfying visualises the future in this field and is aspiring to step in to this field to create breathtaking revolutionary Innovations which solves Real Human Problems and giveback the "True Green" back to the Nature.
+
+We also make Concepts for the Future Technology, Mobility & Innovations.
+Visit https://mickeyfying.com to see some featured Concepts
+
+Skills: C++/C#/Kotlin/Java/Python/Unity/Unreal Engine/Android Studio/Cinema 4D/Final Cut Pro/Blender3D/Reallusion3D/Adobe Creative Cloud/DaVinciResolve
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -20,7 +27,7 @@ Skills: Python/C#/C++/Unity/Unreal Engine/Blender3D/Reallusion3D/Adobe AfterEffe
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mickeyfying" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mickeyfying" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shivam-singh-139274187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-singh-139274187" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mickeyfying-shivam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-singh-139274187" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mickeyfying" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mickeyfying" height="30" width="40" /></a>
 <a href="https://instagram.com/mickeyfying" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mickeyfying" height="30" width="40" /></a>
 <a href="https://www.behance.net/mickeyfying" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mickeyfying" height="30" width="40" /></a>
